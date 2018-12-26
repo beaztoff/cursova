@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>timetask-ico.ico</file>
+        <file>timetask-logoua.png</file>
+        <file>timetask-ico.png</file>
+        <file>up.png</file>
+        <file>down.png</file>
+    </qresource>
+</RCC>
